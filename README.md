@@ -8,7 +8,7 @@ Sujit Pal's version doesn't allow multiple csv files as input, but the python mo
 
 # Usage
 
-```python
+```shell
 python csv_to_excel.py file1.csv #script works just like before with one csv file
 python csv_to_excel file1.csv file2.csv file3.csv #but here you can use this syntax to merge multiple .csv (one sheet for each .csv)
 python csv_to_excel file*.csv #wildcard also works
